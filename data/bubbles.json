@@ -1,0 +1,479 @@
+{
+ "name": "flare",
+ "children": [
+{
+  "name": "Aff_Etr",
+  "children": [
+    {"name": "Aff_Etr","size":17043977}
+,
+    {"name": "DCSD","size":894000}
+,
+    {"name": "DGA DIL ","size":4032980}
+,
+    {"name": "DGM","size":192174}
+]},
+{
+  "name": "Aff_Soc",
+  "children": [
+    {"name": "AC COMJS ","size":153181}
+,
+    {"name": "AC DAFIIS MADD SDAF","size":63144}
+,
+    {"name": "AC DAFIIS MADD SDSGI ","size":22947990}
+,
+    {"name": "AC DGOS","size":1932126}
+,
+    {"name": "AC DGS ","size":1916898}
+,
+    {"name": "AC DICOM ","size":4453748}
+,
+    {"name": "AC DJEPVA","size":873469}
+,
+    {"name": "AC DREES ","size":2690572}
+,
+    {"name": "AC DRH ","size":1641905}
+,
+    {"name": "AC DS MF","size":671705}
+,
+    {"name": "AC DSS","size":350318}
+,
+    {"name": "AC IGAS ","size":39620}
+,
+    {"name": "AC SG CIV","size":2221532}
+,
+    {"name": "DRJSCS","size":320192}
+,
+    {"name": "MSJSVA AC DAFIIS MADD SDSI","size":15284887}
+,
+    {"name": "MSJSVA AC DGCS","size":2830971}
+,
+    {"name": "OP ARS","size":41088320}
+,
+    {"name": "OP ASC ","size":2362756}
+,
+    {"name": "OP CNITAAT ","size":45262}
+,
+    {"name": "OP EFS","size":65780}
+,
+    {"name": "SD DJSCS","size":77592}
+,
+    {"name": "SD DRJSCS","size":943274}
+]},
+{
+  "name": "Agriculture",
+  "children": [
+    {"name": "Agriculture","size":5013708}
+,
+    {"name": "MAAF BCPA","size":5867041}
+,
+    {"name": "SD DRAAF","size":258932}
+]},
+{
+  "name": "CCI",
+  "children": [
+    {"name": "ACFCI","size":3493957}
+,
+    {"name": "CCI Alençon","size":254596}
+,
+    {"name": "CCI Ales","size":1857271}
+,
+    {"name": "CCI Amiens","size":3704561}
+,
+    {"name": "CCI Ardennes","size":3242279}
+,
+    {"name": "CCI Artois","size":4504685}
+,
+    {"name": "CCI Aveyron","size":445907}
+,
+    {"name": "CCI Basse Normandie","size":131623}
+,
+    {"name": "CCI Bretagne","size":312460}
+,
+    {"name": "CCI Carcassonne","size":573384}
+,
+    {"name": "CCI Châlons en Champagne","size":98000}
+,
+    {"name": "CCI Champagne Ardenne","size":96867}
+,
+    {"name": "CCI Cherbourg","size":413883}
+,
+    {"name": "CCI Drôme","size":1016027}
+,
+    {"name": "CCI Essonne","size":7423511}
+,
+    {"name": "CCI Eure","size":2942684}
+,
+    {"name": "CCI Eure et Loir ","size":684064}
+,
+    {"name": "CCI Grand Hainaut","size":21763145}
+,
+    {"name": "CCI Haute Savoi","size":69100}
+,
+    {"name": "CCI Indre","size":264897}
+,
+    {"name": "CCI Languedoc Roussillo","size":423000}
+,
+    {"name": "CCI Limoges","size":4717778}
+,
+    {"name": "CCI Marseille","size":117744833}
+,
+    {"name": "CCI Martinique","size":12980484}
+,
+    {"name": "CCI Mayenne","size":72383}
+,
+    {"name": "CCI Montpellier","size":1503578}
+,
+    {"name": "CCI Moulins Vichy","size":372164}
+,
+    {"name": "CCI Nord Isere","size":1254368}
+,
+    {"name": "CCI Oise","size":291793}
+,
+    {"name": "CCI Reims","size":697283}
+,
+    {"name": "CCI Rhône Alpes","size":622641}
+,
+    {"name": "CCI Rochefort","size":15033311}
+,
+    {"name": "CCI Saint Malo","size":3851858}
+,
+    {"name": "CCI Saint Malo Fougeres","size":713950}
+,
+    {"name": "CCI Saint Pierre et Miquelon","size":21524}
+,
+    {"name": "CCI Seine et Marne","size":11063636}
+,
+    {"name": "CCI Tarn","size":1031833}
+,
+    {"name": "CCI Territoire de Belfort","size":183016}
+,
+    {"name": "CCI Toulouse GEST ","size":55000}
+,
+    {"name": "CCI Troyes","size":2873896}
+,
+    {"name": "CCI Vaucluse ","size":1764356}
+,
+    {"name": "GI CCI Finance ","size":340787}
+,
+    {"name": "GI ESCEM ","size":2000974}
+,
+    {"name": "GI GIM","size":435633}
+]},
+{
+  "name": "Culture",
+  "children": [
+    {"name": "DRAC","size":688608}
+,
+    {"name": "Ecole du Louvre","size":194839}
+,
+    {"name": "ENS Archi Montp","size":180808}
+,
+    {"name": "ENSA Val de Seine","size":48398}
+,
+    {"name": "MCC DRAC","size":5146364}
+,
+    {"name": "MCC ecarchi Mars","size":1279346}
+,
+    {"name": "MUSeE DU CHATEAU DE COMPIeGNE","size":2450646}
+,
+    {"name": "sigle entite DRAC","size":1185683}
+]},
+{
+  "name": "Defense",
+  "children": [
+    {"name": "Aiar SIAe AIA","size":87100}
+,
+    {"name": "Air SIAe AIA ","size":24970757}
+,
+    {"name": "Air SIAe SDHA","size":834500518}
+,
+    {"name": "Air SIMMAD ","size":86707576}
+,
+    {"name": "Defense","size":2610037}
+,
+    {"name": "DGA DO SCA","size":490483974}
+,
+    {"name": "DGA DS Cedocar ","size":15084129}
+,
+    {"name": "DGA DT SCAT","size":234726952}
+,
+    {"name": "EMA DC DIRISI","size":94381435}
+,
+    {"name": "EMA DC SCA CESCOF","size":181418329}
+,
+    {"name": "EMA DC SCA GSBdD ","size":43713174}
+,
+    {"name": "EMA DC SCA PFAF","size":235767176}
+,
+    {"name": "EMA DC SSA DAPSA ","size":311292838}
+,
+    {"name": "EMA SEA DCSEA ","size":451807858}
+,
+    {"name": "EMA SEA DELPIA","size":351602850}
+,
+    {"name": "EMA SEA LSEA","size":671991}
+,
+    {"name": "EMA SIMU","size":1511491}
+,
+    {"name": "ESTM EPA CBdD BREST","size":280875}
+,
+    {"name": "ESTM EPA CM BDD","size":134791}
+,
+    {"name": "ESTM EPA CMMT","size":6918826}
+,
+    {"name": "ESTM EPA CSCMT","size":719497}
+,
+    {"name": "ESTM EPA Ecole Polytechnique ","size":24217}
+,
+    {"name": "ESTM EPA ENSTA","size":4732668}
+,
+    {"name": "ESTM EPA INI ","size":4789574}
+,
+    {"name": "ESTM EPA MAE ","size":5144307}
+,
+    {"name": "ESTM EPA ONAC ","size":15939914}
+,
+    {"name": "ESTM EPA SHOM ","size":10986532}
+,
+    {"name": "Marine DCSSF DSSF","size":1210285449}
+,
+    {"name": "Services Communs BCAC Case 75","size":2317722}
+,
+    {"name": "Services Communs DICoD","size":761962}
+,
+    {"name": "SGA DCSID ","size":441782870}
+,
+    {"name": "SGA DRH","size":14160124}
+,
+    {"name": "SGA SPAC","size":167161407}
+,
+    {"name": "Terre SIMMT SDC","size":21481209}
+,
+    {"name": "Terre SMITer 13eme BSMAT ","size":2003990}
+,
+    {"name": "Terre STAT ","size":565966}
+]},
+{
+  "name": "Economie",
+  "children": [
+    {"name": "AIFE","size":99181408}
+,
+    {"name": "ARCEP","size":931343}
+,
+    {"name": "CGIET EMN ","size":9132798}
+,
+    {"name": "CGLLS","size":135434}
+,
+    {"name": "CRE","size":2233043}
+,
+    {"name": "DGCIS","size":2297983}
+,
+    {"name": "DGDDI R","size":144757}
+,
+    {"name": "DGFIP DG","size":388839003}
+,
+    {"name": "DGFIP R ","size":17428128}
+,
+    {"name": "DGT","size":958215}
+,
+    {"name": "INSEE","size":1844218}
+,
+    {"name": "IRA","size":310368}
+,
+    {"name": "SAE ITAI","size":52100000}
+,
+    {"name": "SCL ","size":981059}
+,
+    {"name": "SG DRH ","size":41920}
+,
+    {"name": "SG SEP SEP1","size":1181950}
+,
+    {"name": "SRE","size":28204523}
+]},
+{
+  "name": "Education",
+  "children": [
+    {"name": "RECT","size":33014199}
+]},
+{
+  "name": "Elysee",
+  "children": [
+    {"name": "Elysee","size":118380}
+]},
+{
+  "name": "Interieur",
+  "children": [
+    {"name": "ANTAI","size":12386735}
+,
+    {"name": "ANTS","size":28000000}
+,
+    {"name": "DeGeOM","size":1331133}
+,
+    {"name": "DGCL","size":116441}
+,
+    {"name": "DGGN ECASGN","size":1108966}
+,
+    {"name": "DGPN","size":209147011}
+,
+    {"name": "DRCPN SDEL","size":179889}
+,
+    {"name": "DSC","size":49090652}
+,
+    {"name": "DSCR","size":22863743}
+,
+    {"name": "GN DGGN ECASGN","size":13731580}
+,
+    {"name": "GN DGGN RGAQ","size":6956245}
+,
+    {"name": "GN DGGN RGBRET","size":13428561}
+,
+    {"name": "GN DGGN RGIF ","size":2627579}
+,
+    {"name": "GN DGGN RGIF GR","size":1664397}
+,
+    {"name": "GN DGGN RGLOR","size":8031746}
+,
+    {"name": "GN DGGN RGNPC ","size":4367049}
+,
+    {"name": "GN DGGN RGPACA","size":4872129}
+,
+    {"name": "GN DGGN RGRA","size":3333457}
+,
+    {"name": "GN DGGN SF BCP","size":27525113}
+,
+    {"name": "PREF ","size":30253476}
+,
+    {"name": "SATPN","size":1230416}
+,
+    {"name": "SG DEPAFI ","size":11271354}
+,
+    {"name": "SG DRH ","size":887243}
+,
+    {"name": "SG DSIC ","size":270849780}
+,
+    {"name": "SG SG DMAT","size":5674326}
+,
+    {"name": "SGAP","size":60673597}
+,
+    {"name": "SGAR","size":31218795}
+,
+    {"name": "SGII ","size":777396}
+,
+    {"name": "ST(SI)² ","size":2989000}
+]},
+{
+  "name": "Justice",
+  "children": [
+    {"name": "DACG CJN","size":378842}
+,
+    {"name": "DSJ OFJ4","size":38176115}
+,
+    {"name": "Justice","size":38592726}
+,
+    {"name": "SD_Jur° ARE","size":23523945}
+,
+    {"name": "SD_Jur° CA","size":33792278}
+,
+    {"name": "SD_Jur° CCassation ","size":551468}
+,
+    {"name": "SD_Jur° DIRPJJ","size":151258}
+,
+    {"name": "SD_Jur° DISP","size":62549441}
+,
+    {"name": "SG 2S2M SDIT","size":13745395}
+,
+    {"name": "SG SG 2S2M SDI SIPJP","size":513642}
+,
+    {"name": "SG SG 3SP SDBCS","size":2506342}
+]},
+{
+  "name": "Logement",
+  "children": [
+    {"name": "AE ONEMA","size":3934012}
+,
+    {"name": "CENTRALE DGPR","size":6315142}
+,
+    {"name": "CVRH","size":82069}
+,
+    {"name": "DDE","size":1372839}
+,
+    {"name": "DDEA","size":406429}
+,
+    {"name": "DDT","size":4463527}
+,
+    {"name": "DDTM","size":12048873}
+,
+    {"name": "DEAL","size":23708998}
+,
+    {"name": "DGAC","size":264742948}
+,
+    {"name": "DIR","size":310552384}
+,
+    {"name": "DIRM","size":456128}
+,
+    {"name": "DM","size":99138}
+,
+    {"name": "DREAL","size":477348081}
+,
+    {"name": "DRIEA I","size":241932425}
+,
+    {"name": "DRIHL IF","size":48229}
+,
+    {"name": "DTAM 975","size":335126}
+,
+    {"name": "ENTE VAL","size":20742}
+,
+    {"name": "EPN ENIM ","size":81800}
+,
+    {"name": "EPN ENSM","size":94243}
+,
+    {"name": "EPN EPMP","size":30000}
+,
+    {"name": "FORMATION ENPC","size":6844613}
+,
+    {"name": "FORMATION ENTPE ","size":5094804}
+,
+    {"name": "P PNR 97","size":288470}
+,
+    {"name": "S TECHNIQUE CETE","size":4727125}
+,
+    {"name": "VNF DTCB","size":617029}
+]},
+{
+  "name": "Matignon",
+  "children": [
+    {"name": "CAS","size":1266919}
+,
+    {"name": "CGLPL","size":27330}
+,
+    {"name": "CNIL","size":590321}
+,
+    {"name": "DATAR","size":2670975}
+,
+    {"name": "DDI","size":1454729}
+,
+    {"name": "DDI DDT","size":4505485}
+,
+    {"name": "DDI DDTM","size":20898048}
+,
+    {"name": "DDTM","size":1174788}
+,
+    {"name": "DSAF","size":16723069}
+,
+    {"name": "SPM DDI","size":2930684}
+,
+    {"name": "SPM SIG","size":250335000}
+]},
+{
+  "name": "Recherche",
+  "children": [
+    {"name": "EOESR UH","size":1019663}
+,
+    {"name": "IPB","size":930743}
+]},
+{
+  "name": "Travail",
+  "children": [
+    {"name": "DIRECCTE ","size":353757}
+  ]}
+]}
